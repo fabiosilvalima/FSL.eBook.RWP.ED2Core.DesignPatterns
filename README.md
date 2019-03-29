@@ -14,6 +14,8 @@ Saiba como o eBook gratuito com 15 Design Patterns pode impulsionar e turbinar s
 >
 > https://www.fabiosilvalima.net/design-patterns-no-mundo-real/
 
+Versão .NET Framework + Simple Injector:
+https://github.com/fabiosilvalima/FSL.eBook.RWP.ED2.DesignPatterns
 
 Quando comecei a escrever este **eBook**, sabia que precisava diagramá-lo de forma diferente aplicando um design **diferente e amigável**. Uma das premissas que adotei foi usar **fonte grande** para ser possível ler a partir dispositivos mobile sem muita dificuldade.
 
